@@ -44,7 +44,7 @@ export default function BentoGridStateful() {
 
   return (
     <>
-      <div className="max-w-sm pt-24 pb-16 mx-auto flex flex-col gap-10 md:max-w-[1200px]">
+      <div className="max-w-xs pt-24 pb-16 mx-auto flex flex-col gap-10 md:max-w-[1200px]">
         <button className="max-w-[175px] py-2 rounded-full bg-gray-100 text-gray-700 text-sm dark:bg-gray-800 dark:text-gray-200">
           Что мы предлагаем
         </button>

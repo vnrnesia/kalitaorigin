@@ -7,7 +7,7 @@ import { ArrowRight } from "lucide-react";
 export default function Testimonials() {
   return (
    <>
-      <div className="max-w-sm md:max-w-4xl flex justify-center text-center mx-auto">
+      <div className="max-w-xs md:max-w-4xl flex justify-center text-center mx-auto">
         
       </div>
     <div className="bg-white relative flex flex-col md:flex-row w-full justify-center mx-auto items-center  py-16 dark:bg-black">
@@ -15,7 +15,7 @@ export default function Testimonials() {
               
 
       {/* Левая часть */}
-      <div className="max-w-sm space-y-6">
+      <div className="max-w-xs pb-4 space-y-6">
         <button className="px-4 py-1 rounded-full bg-gray-100 text-gray-700 text-sm dark:bg-gray-800 dark:text-gray-200">
           Отзывы
         </button>
